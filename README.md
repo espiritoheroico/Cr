@@ -1,5 +1,7 @@
 # Cr
 
-Game Color Rythym
+Game: Color Rythym
+
+Youtube Video: Soon
 
 by: João Vitor Dias
